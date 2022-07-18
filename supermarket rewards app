@@ -1,0 +1,11 @@
+A supermarket needs an Android app that can be used to reward customers.
+any customer that spends more than kshs. 1000 on any four different items is shortlisted as a winner. 
+The ID of the winning customer is displayed on the next activity with the word winner below it. 
+To do this the app must read in the customer ID and the four items that have been bought, 
+calculate the total and check if the total is over ksh. 1000. 
+This promotion runs even when the supermarket is giving discounts.
+
+Consider Mr Joseph whose customer ID is 343455. 
+Mr Joseph has bought item1, item2, item3 and item4 
+all of which are discounted at 10%, 12%, 15% and 20% respectively. 
+write this program and use Mr. Joseph's information to test your program.
