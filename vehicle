@@ -1,0 +1,16 @@
+Create a class called a vehicle
+that has two attributes namely color and engine capacity,
+
+distance_per_litre and fuel_cost_per_litre. 
+Create a constructor for all the attributes in the Toyota class. 
+Create a method in the Toyota class called Cost_of_Journey() 
+that uses the attributes distance_per_litre and fuel_cost_per_litre 
+to calculate the cost of a journey that is 450 km. 
+
+Write another method called sellcar(). 
+A white car which has an engine capacity of 2000cc
+will sell for between Kshs 1m to Kshs 1.5m. 
+
+If a car has any other color for the same engine capacity, 
+it will sell for 20% more. 
+For this program, all values must be read through a well-designed activity interface.
