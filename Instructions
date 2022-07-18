@@ -1,0 +1,7 @@
+Develop an Android App that can be used as a point-of-sale system (without the barcode scanning). 
+On the activity interface provide buttons associated with each item bought (maximum four). 
+The number of button clicks corresponds to the quantity of the item bought. 
+The app should show the quantity of each item bought the total to be paid for each item, 
+the grand total amount to be paid, 
+a 15% discount and 
+the net amount to be paid.
