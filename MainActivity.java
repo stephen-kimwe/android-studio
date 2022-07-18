@@ -1,16 +1,26 @@
-##pointofsale app
+point-of-sale app;
 
-##item 1 button
-##item 2 button
-##item 3 button
-##item 4 button
+/**create 4 buttons
+item 1, price, discount
+item 2, price, discount
+item 3, price, discount
+item 4, price, discount
+ **/
 
-##button clicks corresponds to the quantity of item
+/**create function for button clicks
+button clicks corresponds to the quantity of item
+**/
 
-##Total button clicks per item and price per item displayed
-##Grand Total to be paid displayed
+/**display in text box
+Total button clicks per item and price per item 
+Grand Total to be paid 
+**/
 
-##Discount 15%
-##Net to be paid after Grand total is discounted
-
+/** create method to calculate 15% discount on grand total
+grand total*85/100=net
+ **/
+ 
+/**display net in textbox
+Net to be paid after Grand total is discounted
+**/ 
 
